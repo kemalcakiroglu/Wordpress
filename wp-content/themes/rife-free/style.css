@@ -3922,7 +3922,7 @@ img.avatar{
 }
 .bypostauthor > .comment-body .comment-author .fn::after{
 	content: "";
-	background: transparent url(https://kemalcakiroglu.github.io/Wordpress/wp-content/themes/rife-free/images/author.png) 0 0 no-repeat;
+	background: transparent url(images/author.png) 0 0 no-repeat;
 	height: 23px;
 	width: 43px;
 	margin-left: 15px;
@@ -4543,7 +4543,7 @@ span.result-count{
 	z-index: 3;
 }
 .lt-ie10 .variant-overlay .object-item .caption > a{
-	background: url(https://kemalcakiroglu.github.io/Wordpress/wp-content/themes/rife-free/images/ie9saver.gif) repeat;
+	background: url(images/ie9saver.gif) repeat;
 }
 .object-item .caption{
 	padding: 40px;
@@ -5801,7 +5801,7 @@ body.single-album-slider.site-layout-boxed #mid{
 	direction: ltr;
 }
 .slider-slides li.image-loading {
-	background: transparent url(https://kemalcakiroglu.github.io/Wordpress/wp-content/themes/rife-free/images/ajax-loader.gif) no-repeat center center;
+	background: transparent url(images/ajax-loader.gif) no-repeat center center;
 	height: 100%;
 	width: 100%;
 }
@@ -6206,19 +6206,19 @@ span.slides-count span.of{
 	right: 0;
 	bottom: 0;
 	z-index: 20;
-	background: transparent url(https://kemalcakiroglu.github.io/Wordpress/wp-content/themes/rife-free/images/overlays/pattern.png) 0 0 repeat;
+	background: transparent url(images/overlays/pattern.png) 0 0 repeat;
 }
 .a13-slider.pattern-2 a.slide::before{
-	background-image: url(https://kemalcakiroglu.github.io/Wordpress/wp-content/themes/rife-free/images/overlays/pattern2.png);
+	background-image: url(images/overlays/pattern2.png);
 }
 .a13-slider.pattern-3 a.slide::before{
-	background-image: url(https://kemalcakiroglu.github.io/Wordpress/wp-content/themes/rife-free/images/overlays/pattern3.png);
+	background-image: url(images/overlays/pattern3.png);
 }
 .a13-slider.pattern-4 a.slide::before{
-	background-image: url(https://kemalcakiroglu.github.io/Wordpress/wp-content/themes/rife-free/images/overlays/pattern4.png);
+	background-image: url(images/overlays/pattern4.png);
 }
 .a13-slider.pattern-5 a.slide::before{
-	background-image: url(https://kemalcakiroglu.github.io/Wordpress/wp-content/themes/rife-free/images/overlays/pattern5.png);
+	background-image: url(images/overlays/pattern5.png);
 }
 
 
@@ -7152,7 +7152,7 @@ body.a13-body-sticky-one-page .content-limiter{
 			border-radius: 0 0 0 5px;
 }
 .demo-flyout.flyout-box .links{
-	background: #fff url(https://kemalcakiroglu.github.io/Wordpress/wp-content/themes/rife-free/images/apollo13.png) 50% 20px no-repeat;
+	background: #fff url(images/apollo13.png) 50% 20px no-repeat;
 	padding-top: 54px;
 }
 
