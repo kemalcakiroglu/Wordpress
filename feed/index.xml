@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kemal Çakıroğlu</title>
+	<atom:link href="/https://kemalcakiroglu.github.io/Wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://kemalcakiroglu.github.io/Wordpress</link>
+	<description>Bir başka WordPress sitesi</description>
+	<lastBuildDate>Mon, 09 Dec 2019 17:42:45 +0300</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+	<item>
+		<title>Merhaba dünya!</title>
+		<link>/https://kemalcakiroglu.github.io/Wordpress/2019/12/09/merhaba-dunya/</link>
+				<comments>/https://kemalcakiroglu.github.io/Wordpress/2019/12/09/merhaba-dunya/#comments</comments>
+				<pubDate>Mon, 09 Dec 2019 17:42:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+
+		<guid isPermaLink="false">/https://kemalcakiroglu.github.io/Wordpress/?p=1</guid>
+				<description><![CDATA[WordPress&#8217;e hoş geldiniz. Bu sizin ilk yazınız. Bu yazıyı düzenleyin ya da silin. Sonra yazmaya başlayın!]]></description>
+								<content:encoded><![CDATA[
+<p>WordPress&#8217;e hoş geldiniz. Bu sizin ilk yazınız. Bu yazıyı düzenleyin ya da silin. Sonra yazmaya başlayın!</p>
+]]></content:encoded>
+							<wfw:commentRss>/https://kemalcakiroglu.github.io/Wordpress/2019/12/09/merhaba-dunya/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>
