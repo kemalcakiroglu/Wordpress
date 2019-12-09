@@ -7,17 +7,22 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Giriş &lsaquo; Kemal Çakıroğlu &#8212; WordPress</title>
+	<title>Giriş &lsaquo; KEMAL ÇAKIROĞLU  &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-includes/css/dashicons.min.css?ver=5.3' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-includes/css/buttons.min.css?ver=5.3' media='all' />
-<link rel='stylesheet' id='forms-css'  href='http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-admin/css/forms.min.css?ver=5.3' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-admin/css/l10n.min.css?ver=5.3' media='all' />
-<link rel='stylesheet' id='login-css'  href='http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-admin/css/login.min.css?ver=5.3' media='all' />
+<link href='https://fonts.gstatic.com/' crossorigin rel='preconnect' />
+<link rel='stylesheet' id='dashicons-css'  href='https://kemalcakiroglu.github.io/Wordpress/wp-includes/css/dashicons.min.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='https://kemalcakiroglu.github.io/Wordpress/wp-includes/css/buttons.min.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='https://kemalcakiroglu.github.io/Wordpress/wp-admin/css/forms.min.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='https://kemalcakiroglu.github.io/Wordpress/wp-admin/css/l10n.min.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='https://kemalcakiroglu.github.io/Wordpress/wp-admin/css/login.min.css?ver=5.3' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
-		</head>
+	<link rel="icon" href="https://kemalcakiroglu.github.io/Wordpress/wp-content/uploads/2019/12/cropped-512-icon-SİYAH-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://kemalcakiroglu.github.io/Wordpress/wp-content/uploads/2019/12/cropped-512-icon-SİYAH-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://kemalcakiroglu.github.io/Wordpress/wp-content/uploads/2019/12/cropped-512-icon-SİYAH-180x180.png" />
+<meta name="msapplication-TileImage" content="https://kemalcakiroglu.github.io/Wordpress/wp-content/uploads/2019/12/cropped-512-icon-SİYAH-270x270.png" />
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-tr-tr">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
@@ -25,7 +30,7 @@
 		<div id="login">
 		<h1><a href="https://wordpress.org/">WordPress'in desteğiyle</a></h1>
 	
-		<form name="loginform" id="loginform" action="http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-login.php" method="post">
+		<form name="loginform" id="loginform" action="https://kemalcakiroglu.github.io/Wordpress/wp-login.php" method="post">
 			<p>
 				<label for="user_login">Kullanıcı adı ya da e-posta adresi</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" />
@@ -43,44 +48,49 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> <label for="rememberme">Beni hatırla</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Giriş" />
-									<input type="hidden" name="redirect_to" value="/wp-admin/" />
+									<input type="hidden" name="redirect_to" value="https://kemalcakiroglu.github.io/Wordpress/wp-admin/" />
 									<input type="hidden" name="testcookie" value="1" />
 			</p>
 		</form>
 
 					<p id="nav">
-									<a href="http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-login.php?action=lostpassword">Parolanızı mı unuttunuz?</a>
+									<a href="https://kemalcakiroglu.github.io/Wordpress/wp-login.php?action=lostpassword">Parolanızı mı unuttunuz?</a>
 								</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
-				<p id="backtoblog"><a href="http://localhost/https:/kemalcakiroglu.github.io/Wordpress/">
-		&larr; Kemal Çakıroğlu sitesine geri dön		</a></p>
+				<p id="backtoblog"><a href="https://kemalcakiroglu.github.io/Wordpress/">
+		&larr; KEMAL ÇAKIROĞLU  sitesine geri dön		</a></p>
 			</div>
-	<script src='http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
-<script src='http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script>
-var _zxcvbnSettings = {"src":"\/wp-includes\/js\/zxcvbn.min.js"};
+	<script type='text/javascript' src='https://kemalcakiroglu.github.io/Wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://kemalcakiroglu.github.io/Wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"https:\/\/kemalcakiroglu.github.io\/Wordpress\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
 </script>
-<script src='http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-includes/js/zxcvbn-async.min.js?ver=1.0'></script>
-<script>
+<script type='text/javascript' src='https://kemalcakiroglu.github.io/Wordpress/wp-includes/js/zxcvbn-async.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
 var pwsL10n = {"unknown":"Parola g\u00fcc\u00fc bilinmiyor","short":"\u00c7ok zay\u0131f","bad":"Zay\u0131f","good":"Orta","strong":"G\u00fc\u00e7l\u00fc","mismatch":"Parolalar uyu\u015fmuyor"};
+/* ]]> */
 </script>
-<script src='http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-admin/js/password-strength-meter.min.js?ver=5.3'></script>
-<script src='http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
-<script>
+<script type='text/javascript' src='https://kemalcakiroglu.github.io/Wordpress/wp-admin/js/password-strength-meter.min.js?ver=5.3'></script>
+<script type='text/javascript' src='https://kemalcakiroglu.github.io/Wordpress/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/Wordpress\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
 </script>
-<script src='http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-includes/js/wp-util.min.js?ver=5.3'></script>
-<script>
+<script type='text/javascript' src='https://kemalcakiroglu.github.io/Wordpress/wp-includes/js/wp-util.min.js?ver=5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
 var userProfileL10n = {"warn":"Yeni parolan\u0131z kaydedilemedi.","warnWeak":"Zay\u0131f parola kullanmay\u0131 onayla","show":"G\u00f6ster","hide":"Gizle","cancel":"Vazge\u00e7","ariaShow":"Parolay\u0131 g\u00f6ster","ariaHide":"Parolay\u0131 gizle"};
+/* ]]> */
 </script>
-<script src='http://localhost/https:/kemalcakiroglu.github.io/Wordpress/wp-admin/js/user-profile.min.js?ver=5.3'></script>
-	<script>
-	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
-	</script>
-		<div class="clear"></div>
+<script type='text/javascript' src='https://kemalcakiroglu.github.io/Wordpress/wp-admin/js/user-profile.min.js?ver=5.3'></script>
+	<div class="clear"></div>
 	</body>
 	</html>
 	

@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Örnek sayfa yazısına yapılan yorumlar	</title>
-	<atom:link href="/https://kemalcakiroglu.github.io/Wordpress/ornek-sayfa/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://kemalcakiroglu.github.io/Wordpress</link>
-	<description>Bir başka WordPress sitesi</description>
+	<atom:link href="https://kemalcakiroglu.github.io/Wordpress/ornek-sayfa/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kemalcakiroglu.github.io/Wordpress</link>
+	<description>Kemal Çakıroğlu web sitesidir</description>
 	<lastBuildDate>Mon, 09 Dec 2019 17:42:45 +0300</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
